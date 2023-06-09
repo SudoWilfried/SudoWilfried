@@ -1,3 +1,4 @@
+![Header](./banner.png)
 <h1 align="left">Hi 👋, I'm Wilfried KANA</h1>
 <h3 align="left">A passionate FullStack developer from Cameroon</h3>
 <image align="right" src='https://st4.depositphotos.com/4063385/40880/v/600/depositphotos_408804446-stock-illustration-young-black-man-working-laptop.jpg'>
