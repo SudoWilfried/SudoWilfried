@@ -4,7 +4,6 @@
 <image align="right" src='https://st4.depositphotos.com/4063385/40880/v/600/depositphotos_408804446-stock-illustration-young-black-man-working-laptop.jpg'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kn237&label=Profile%20views&color=0e75b6&style=flat" alt="kn237" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kanawilfried" target="blank"><img src="https://img.shields.io/twitter/follow/kanawilfried?logo=twitter&style=for-the-badge" alt="kanawilfried" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Development**
 
