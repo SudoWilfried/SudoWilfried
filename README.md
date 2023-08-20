@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kanamboma@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/kanawilfried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanawilfried" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wilfried-hariel-kana-mboma-488aa3a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilfried-hariel-kana-mboma-488aa3a2" height="30" width="40" /></a>
