@@ -34,7 +34,7 @@
 </p>
 
 <br/>
-<image align="center" src='./mygif.gif'>
+<image align="center" src='./mygif2.gif'>
 
 
 - 🌱 I’m currently learning **Mobile Development**
