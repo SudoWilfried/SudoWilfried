@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Wilfried KANA</h1>
 <h3 align="left">A passionate fullStack developer from Cameroon</h3>
 <image align="right" src='https://st4.depositphotos.com/4063385/40880/v/600/depositphotos_408804446-stock-illustration-young-black-man-working-laptop.jpg'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kn237&label=Profile%20views&color=0e75b6&style=flat" alt="kn237" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kn237&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" alt="kn237" /> </p>
 
 
 - 🌱 I’m currently learning **Mobile Development**
