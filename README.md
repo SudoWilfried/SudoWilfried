@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/KN237" width="200">
+  <a href="https://github.com/KN237" width="100">
     <img src="./nom.png" alt="Wilfried H. KANA" /></a>
 </p>
 
