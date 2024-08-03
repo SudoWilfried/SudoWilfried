@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="https://github.com/KN237" width="50">
-    <img src="./nom.png" alt="Wilfried H. KANA" /></a>
+    <a href="https://github.com/KN237"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&repeat=false&width=435&lines=Wilfried+H.+KANA" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&repeat=false&width=435&lines=Wilfried+H.+KANA" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-stack+web+and+app+Developer;Always+learning+new+things" />
 </p>
 
 <!-- Social icons section -->
