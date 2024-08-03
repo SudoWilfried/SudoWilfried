@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=316FF6&center=true&vCenter=true&random=true&width=435&lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
     
 </p>
-    <image align="right" src='./mygif.gif'>
+    <image align="right" src='./mygif.gif' width="100">
 </p>
 
 
